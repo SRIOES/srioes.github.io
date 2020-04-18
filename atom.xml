@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://srioes.github.io</id>
+    <id>https://sries.lwzheng.icu</id>
     <title>SRIES|实验学校第二科研所</title>
-    <updated>2020-04-18T05:02:38.301Z</updated>
+    <updated>2020-04-18T11:57:25.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://srioes.github.io"/>
-    <link rel="self" href="https://srioes.github.io/atom.xml"/>
+    <link rel="alternate" href="https://sries.lwzheng.icu"/>
+    <link rel="self" href="https://sries.lwzheng.icu/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://srioes.github.io/images/avatar.png</logo>
-    <icon>https://srioes.github.io/favicon.ico</icon>
+    <logo>https://sries.lwzheng.icu/images/avatar.png</logo>
+    <icon>https://sries.lwzheng.icu/favicon.ico</icon>
     <rights>All rights reserved 2020, SRIES|实验学校第二科研所</rights>
     <entry>
         <title type="html"><![CDATA[Sweet Dreams 第一部分]]></title>
-        <id>https://srioes.github.io/post/sweet-dreams-di-yi-bu-fen/</id>
-        <link href="https://srioes.github.io/post/sweet-dreams-di-yi-bu-fen/">
+        <id>https://sries.lwzheng.icu/post/sweet-dreams-di-yi-bu-fen/</id>
+        <link href="https://sries.lwzheng.icu/post/sweet-dreams-di-yi-bu-fen/">
         </link>
         <updated>2020-04-18T04:14:20.000Z</updated>
         <summary type="html"><![CDATA[<p>一个原创英文小说，改编自Minecraft知名整合包&quot;GTNH&quot;。</p>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sries.lwzheng.icu</id>
     <title>SRIES|实验学校第二科研所</title>
-    <updated>2020-04-21T07:43:11.336Z</updated>
+    <updated>2020-04-21T07:45:42.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sries.lwzheng.icu"/>
     <link rel="self" href="https://sries.lwzheng.icu/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://sries.lwzheng.icu/images/avatar.png</logo>
     <icon>https://sries.lwzheng.icu/favicon.ico</icon>
     <rights>All rights reserved 2020, SRIES|实验学校第二科研所</rights>
+    <entry>
+        <title type="html"><![CDATA[置顶公告|Notice]]></title>
+        <id>https://sries.lwzheng.icu/post/notice/</id>
+        <link href="https://sries.lwzheng.icu/post/notice/">
+        </link>
+        <updated>2020-04-21T07:44:01.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎来到SRIES（实验学校第二科研所）的官方网站。</p>
+<p>本站是实验学校第二科研所的官网（暂定）。我们是某不知名实验学校的几个中学生。</p>
+<h2 id="人员介绍">人员介绍</h2>
+<pre><code>=水瓜|Explosive Watermelon:一个普通的爱听摇滚的人。最喜欢四样事情:摇滚,游戏,旅行,计算机。最喜欢的电影:《星球大战》系列和《天气之子》。极其厌恶抖音和无知的人。
+=四氯化钛|TiCl4: 一个普通的热爱GTNH的人，最喜欢肝GTNH。(其实他是GTNH生存大佬 ——水瓜)
+</code></pre>
+<h3 id="兴趣爱好">兴趣爱好</h3>
+<pre><code>物理、化学、生物，天文，游戏(Minecraft)
+</code></pre>
+<h3 id="联系我们">联系我们</h3>
+<pre><code>Q群904599775，钉钉请加钉钉号15163460722。
+
+*本公告特意为不看关于的人制作。*</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谈一点对新裤子乐队的认识]]></title>
         <id>https://sries.lwzheng.icu/post/newpants1/</id>

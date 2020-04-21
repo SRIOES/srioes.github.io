@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sries.lwzheng.icu</id>
     <title>SRIES|实验学校第二科研所</title>
-    <updated>2020-04-21T06:05:54.013Z</updated>
+    <updated>2020-04-21T06:07:48.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sries.lwzheng.icu"/>
     <link rel="self" href="https://sries.lwzheng.icu/atom.xml"/>
@@ -52,7 +52,7 @@
 <h3 id="新浪潮new-wave">新浪潮（New Wave）</h3>
 </li>
 </ul>
-<p>按时间顺序往后听，就是新浪潮风格的音乐了。新浪潮有点像电子音乐的风格</p>
+<p>按时间顺序往后听，就是新浪潮风格的音乐了。新浪潮有点像电子音乐的风格，而我之前恰好喜欢听电音，这种风格我自然爱听，</p>
 <p>暂时先写到这。。。——笔者exWatermelon</p>
 ]]></content>
     </entry>
@@ -66,9 +66,9 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>一个原创英文小说，改编自Minecraft知名整合包&quot;GTNH&quot;。</p>
 <!-- more -->
-<pre><code>  # Sweet Dreams
-  ## Part 1 The First Day
-  Who am I?
+<h1 id="sweet-dreams">Sweet Dreams</h1>
+<h2 id="part-1-the-first-day">Part 1 The First Day</h2>
+<pre><code>  Who am I?
   I’m GregoriusT.
   Where I am?
   I think that I am in a new planet, called GTNH. The natural environment here is greatly comfortable. Here are also animals, plants and the same science rules as the Earth, but I haven’t seen anybody so far. And...why I know these things?

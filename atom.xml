@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sries.lwzheng.icu</id>
     <title>SRIES|实验学校第二科研所</title>
-    <updated>2020-04-21T07:52:30.562Z</updated>
+    <updated>2020-04-21T09:14:41.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sries.lwzheng.icu"/>
     <link rel="self" href="https://sries.lwzheng.icu/atom.xml"/>
@@ -10,6 +10,59 @@
     <logo>https://sries.lwzheng.icu/images/avatar.png</logo>
     <icon>https://sries.lwzheng.icu/favicon.ico</icon>
     <rights>All rights reserved 2020, SRIES|实验学校第二科研所</rights>
+    <entry>
+        <title type="html"><![CDATA[Minecraft英语日记]]></title>
+        <id>https://sries.lwzheng.icu/post/minecraft-ying-yu-ri-ji/</id>
+        <link href="https://sries.lwzheng.icu/post/minecraft-ying-yu-ri-ji/">
+        </link>
+        <updated>2020-04-21T09:13:19.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>I’m going to write about the computer game “Minecraft” again. 
+</code></pre>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>I’m going to write about the computer game “Minecraft” again. 
+</code></pre>
+<!-- more -->
+<pre><code>I have two reasons: First, the article I wrote was terrible. Second, Minecraft is such a really good game that it’s worth writing an extra (or reloaded) article for it.
+Firstly, the survival system is very clever and good. The studio Mojang (who created Minecraft) made their best to do the survival system and it’s very educational to try about it.
+Secondly, there are a lot of mods that created by players in Minecraft. This point is also the most famous and important one. The mods now can include most things that you can imagine such as industries, foods, galaxy, and even magic. These things not only can improve your gaming experience, but also can make you learn the knowledge about them while you are playing. So I really like this game very much because I can always learn something that can’t be got by reading from it. For example, I learn how to survival and how to build industry system. Also, I really enjoy this time of playing and studying.
+To be honest, computer games always make people want to play them all the time. But Minecraft doesn’t do this. You can stop playing it everytime.
+What such a good game!
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft]]></title>
+        <id>https://sries.lwzheng.icu/post/minecraft/</id>
+        <link href="https://sries.lwzheng.icu/post/minecraft/">
+        </link>
+        <updated>2020-04-21T09:13:19.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>I’m going to write about the computer game “Minecraft” again. I have two reasons: First, the article I wrote was terrible. Second, Minecraft is such a really good game that it’s worth writing an extra (or reloaded) article for it.
+Firstly, the survival system is very clever and good. The studio Mojang (who created Minecraft) made their best to do the survival system and it’s very educational to try about it.
+Secondly, there are a lot of mods that created by players in Minecraft. This point is also the most famous and important one. The mods now can include most things that you can imagine such as industries, foods, galaxy, and even magic. These things not only can improve your gaming experience, but also can make you learn the knowledge about them while you are playing. So I really like this game very much because I can always learn something that can’t be got by reading from it. For example, I learn how to survival and how to build industry system. Also, I really enjoy this time of playing and studying.
+To be honest, computer games always make people want to play them all the time. But Minecraft doesn’t do this. You can stop playing it everytime.
+What such a good game!
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[建站英语日记]]></title>
+        <id>https://sries.lwzheng.icu/post/jian-zhan-ying-yu-ri-ji/</id>
+        <link href="https://sries.lwzheng.icu/post/jian-zhan-ying-yu-ri-ji/">
+        </link>
+        <updated>2020-04-21T09:12:34.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>Have you tried setting up a website? I have.
+</code></pre>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>Have you tried setting up a website? I have.
+</code></pre>
+<!-- more -->
+<pre><code>On 2019.7.13 , we set up a group named SRIES (The second Research Institute of experimental school) on QQ. We talk about many interesting things there, included studying, science, physics and chemistry and so on (this is not the main theme of this article, I’ll write about it in another article in future).Recently, After seeing a website of my friend, I decided to set up a website of mine or SRIES’s.
+I used a website named github to use its pages service and used a software named “gridea” to build my website and write articles (very easy). 	Firstly, I set up a website of mine easily, its website is https://exwatermelon.github.io/ and I wrote an article named “谈一点对新裤子乐队的认识” on April Third.
+After that, I used gridea to set up a website of SRIES on April 18th. Its website is https://sries.lwzheng.icu .I not only copied the article “谈一点对新裤子乐队的认识” to this website, but also copied the small story that written by Bao Zheng on https://sries.lwzheng.icu. Although I just used a simple software to set up a website easily, I believe that I can set up a website of ours by codes and programming in the future, it’s also a dream of mine.
+DON’T FORGET TO VISIT OUR WEBSITE AT https://sries.lwzheng.icu !!!!!!!!!!!!
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[置顶公告|Notice]]></title>
         <id>https://sries.lwzheng.icu/post/notice/</id>
